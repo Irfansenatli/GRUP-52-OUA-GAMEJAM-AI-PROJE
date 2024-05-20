@@ -1,5 +1,4 @@
-
- **Oyun Ve Uygulama Akademisi AI GameJam 2024 - Grup 52**
+**Oyun Ve Uygulama Akademisi AI GameJam 2024 - Grup 52**
 # Oyun Adı: " KAYIP ZAMANIN FISILTILARI"
 
 ## Oyunun Hikâyesi
@@ -14,4 +13,5 @@ Oyuncumuzun zamanın içinde kaybolmuş bir kahramanın hikayesini keşfedeceği
 Tuğberk Şentepe - [LinkedIn](https://www.linkedin.com/in/tugberksentepe/)
 
 İrfan Şenatlı - [LinkedIn]( https://www.linkedin.com/in/irfan-%C5%9Fenatl%C4%B1-7a3963249/)
+
 
