@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dede
+  - Kitap
+  - kitap2
+  - kitap3
+  - kitap4
+  - kitap5
+  - kitap6
+  - Door
+  - Dede1
+  - Dede2
+  - Dede3
+  - Dede4
+  - "Kap\u01311"
+  - "Kap\u01312"
+  - "Kap\u01313"
+  - "Kap\u01314"
+  - Teleport
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Final
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
